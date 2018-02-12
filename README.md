@@ -30,8 +30,6 @@ Awesome API Star [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3
 
 * [cookiecutter-apistar ](https://github.com/bahattincinic/cookiecutter-apistar) - A API Star template for cookiecutter.
 
-* [apistar_shell](https://github.com/bahattincinic/apistar_shell) - API Star Shell inspired by Django
-
 ## Resources
 
 ### Podcasts
