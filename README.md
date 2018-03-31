@@ -16,6 +16,15 @@ Awesome API Star [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3
 
 ## Resources
 
+### Version 0.4
+
+A new version of API Star is in the works and it will be backwards incompatible. See the following resources. (March 31, 2018)
+
+- [Towards 0.4](https://github.com/encode/apistar/pull/400) - Issue 400 shows Tom's plan for the changes he is making.
+- [A peek at the upcoming version](https://discuss.apistar.org/t/a-peek-at-the-upcoming-version/412) - Discussion about the new features by the community.
+
+
+
 ### Podcasts
 
 - [Talk Python Podcast #125 - Django REST framework and a new API star is born
