@@ -25,9 +25,26 @@ A new version of API Star is in the works and it will be backwards incompatible.
 - [A peek at the upcoming version](https://discuss.apistar.org/t/a-peek-at-the-upcoming-version/412) - Discussion about the new features by the community.
 
 
-### Packages
+## Packages
+
+### Authentication
+
+- [apistar_token_authentication](https://github.com/bahattincinic/apistar_token_authentication) - Token Based Authentication For API Star
+- [apistar-jwt](https://github.com/audiolion/apistar-jwt) - A JSON Web Token Component for API Star
+
+### Components
 
 - [apistar-contrib](https://github.com/ryananguiano/apistar-contrib) - Group of API Star components and hooks including sessions and CSRF.
+
+### Development Tools
+
+- [apistar_shell](https://github.com/bahattincinic/apistar_shell) - API Star Shell inspired by Django
+
+### Project Structures
+
+- [cookiecutter-apistar ](https://github.com/bahattincinic/cookiecutter-apistar) - A API Star template for cookiecutter.
+
+
 
 
 ### Podcasts
