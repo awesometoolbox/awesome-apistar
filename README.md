@@ -1,4 +1,4 @@
-Awesome API Star [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <img src='https://discuss.apistar.org/uploads/apistar/original/1X/7642c49724f48d62167cc94409aa6cf730c49aa9.png' width='130'/>
+Awesome API Star [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <img src='https://raw.githubusercontent.com/encode/apistar/master/docs/img/logo-200-square-light.png' width='200'/>
 ===============
 
 > A curated list of awesome packages, articles, and other cool resources from the API Star community.
@@ -8,6 +8,7 @@ Awesome API Star [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3
 
 - [General resources](#general-resources)
 - [Resources](#resources)
+- [Packages](#packages)
 - [Plugins](#plugins)
 
 ## General resources
@@ -38,6 +39,27 @@ A new version of API Star is in the works and it will be backwards incompatible.
 
 - [Towards 0.4](https://github.com/encode/apistar/pull/400) - Issue 400 shows Tom's plan for the changes he is making.
 - [A peek at the upcoming version](https://discuss.apistar.org/t/a-peek-at-the-upcoming-version/412) - Discussion about the new features by the community.
+
+
+## Packages
+
+### Authentication
+
+- [apistar_token_authentication](https://github.com/bahattincinic/apistar_token_authentication) - Token Based Authentication For API Star
+- [apistar-jwt](https://github.com/audiolion/apistar-jwt) - A JSON Web Token Component for API Star
+
+### Components
+
+- [apistar-contrib](https://github.com/ryananguiano/apistar-contrib) - Group of API Star components and hooks including sessions and CSRF.
+
+### Development Tools
+
+- [apistar_shell](https://github.com/bahattincinic/apistar_shell) - API Star Shell inspired by Django
+
+### Project Structures
+
+- [cookiecutter-apistar ](https://github.com/bahattincinic/cookiecutter-apistar) - A API Star template for cookiecutter.
+
 
 
 
