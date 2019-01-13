@@ -8,11 +8,27 @@ Awesome API Star [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3
 
 - [General resources](#general-resources)
 - [Resources](#resources)
+- [Plugins](#plugins)
 
 ## General resources
 
 - [GitHub repository](https://github.com/encode/apistar)
 - [Discussion Forum](https://discuss.apistar.org/)
+
+## Plugins
+
+### Authentication
+
+* [apistar_token_authentication](https://github.com/bahattincinic/apistar_token_authentication) - Token Based Authentication For API Star
+* [apistar-jwt](https://github.com/audiolion/apistar-jwt) - A JSON Web Token Component for API Star
+
+### Development Tools
+
+* [apistar_shell](https://github.com/bahattincinic/apistar_shell) - API Star Shell inspired by Django
+
+### Project Structures
+
+* [cookiecutter-apistar ](https://github.com/bahattincinic/cookiecutter-apistar) - A API Star template for cookiecutter.
 
 ## Resources
 
