@@ -5,7 +5,7 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
-- Suggested additions should be related to Wagtail.
+- Suggested additions should be related to Apistar.
 - Suggested packages should be tested and documented.
 - Make an individual pull request for each suggestion.
 - Use the following format: `[package](link) - Description.`
@@ -24,7 +24,7 @@ Once you submit the pull request, the links will be checked by [awesome_bot](htt
 
 ### Spreading the word
 
-If you want to help spread the word about this list, consider adding a mention of it in your project's README: `*Check out [Awesome Wagtail](https://github.com/springload/awesome-wagtail) for more awesome packages and resources from the Wagtail community.*`
+If you want to help spread the word about this list, consider adding a mention of it in your project's README: `*Check out [Awesome Apistar](https://github.com/mekicha/awesome-apistar) for more awesome packages and resources from the Apistar community.*`
 
 ### Updating your PR
 
